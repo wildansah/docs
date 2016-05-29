@@ -70,3 +70,4 @@ Instead of steps 2-4 you can also use the corresponding ENV variable (e.g. if yo
 If you're doing a fresh install of node on Mac OS you can avoid this problem altogether by using the [Hombrew](brew.sh) package manager.  Homebrew sets things up out of the box with the correct permissions.
 
     brew install node
+.
